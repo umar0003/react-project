@@ -1,0 +1,72 @@
+ *{
+     margin: 0;
+     padding: 0;
+ }
+ body{
+     background-color: #333;
+    color: #ffffff;
+ }
+ header{
+     background-color: #000000;
+     padding: 20px;
+ }
+
+ .circle{
+     list-style-type: circle;
+ }
+ .square{
+     list-style-type: square;
+ }
+ .disc{
+     list-style-type: disc;
+ }
+ .btn{
+     background-color: red;
+     color: white;
+     padding: 10px;
+     margin-left: 550px;
+ }
+ .btn:hover{
+     background-color: yellow;
+     color: black;
+ }
+ .task1{
+     margin: 0 auto;
+     width: 80%;
+     height: 130px;
+     background-color: lightpink;
+ }
+ .task2{
+     margin: 0 auto;
+     width: 80%;
+     height: 130px;
+     background-color: hotpink;
+ }
+ .text1{
+     padding: 10px 15px;
+     text-align: center;
+ }
+ .btn1{
+     background-color: red;
+     color: white;
+     padding: 10px;
+     margin-left: 50px;
+ }
+ .btn1:hover{
+     background-color: gray;
+     color: white;
+ }
+ .btn2{
+     background-color: red;
+     color: white;
+     padding: 10px;
+     margin-left: 50px;
+ }
+ .btn2:hover{
+     background-color: gray;
+     color: white;
+ }
+ .number1{
+     padding: 10px 15px;
+     margin-left: 50px;
+ }
